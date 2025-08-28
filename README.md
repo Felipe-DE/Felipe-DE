@@ -7,8 +7,7 @@
 - 🏋️‍♂️ In my free time I like to **work out** and 🎮 **play games**  
 
 📫 You can find me on:  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-felipess)  
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)]([https://instagram.com/https://www.instagram.com/gabrihel.bjj/](https://www.instagram.com/gabrihel.bjj/))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-felipess)
 
 ---
 
